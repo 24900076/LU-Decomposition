@@ -30,9 +30,16 @@ Developed by:
 RegisterNumber: 
 */
 ```
-
+## Input:
+import numpy as np
+from scipy.linalg import lu
+A=np.array(eval(input()))
+p,l,u=lu(A)
+print(l)
+print(u)
 ## Output:
-![lu decomposition]()
+![image](https://github.com/user-attachments/assets/c7108610-2e7a-468b-a63b-5cb5c8c352cb)
+
 
 
 ## Result:
