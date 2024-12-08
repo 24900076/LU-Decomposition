@@ -56,6 +56,8 @@ Program to find the LU Decomposition of a matrix.
 Developed by: Saiprasath.P
 RegisterNumber: 24900076
 */
+
+
 ## Input:
 import numpy as np
 
@@ -68,6 +70,8 @@ p,l,u=lu(A)
 print(l)
 
 print(u)
+
+
 ## Output:
 ![image](https://github.com/user-attachments/assets/c7108610-2e7a-468b-a63b-5cb5c8c352cb)
 
