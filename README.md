@@ -73,8 +73,8 @@ print(u)
 
 
 ## Output:
-![ex05(1)](https://github.com/user-attachments/assets/436a874e-b5a3-4c63-9bc7-8a36d914afd7)
-![ex05(2)](https://github.com/user-attachments/assets/07e425a9-5df1-4837-b6a7-e366b7110af0)
+![image](https://github.com/user-attachments/assets/5d79741f-f2d9-4897-9621-b37862b44be8)
+![image](https://github.com/user-attachments/assets/3ee03eef-6617-4d4b-87d5-13db5a8baa10)
 
 
 
