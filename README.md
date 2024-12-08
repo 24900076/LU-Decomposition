@@ -73,9 +73,10 @@ print(u)
 
 
 ## Output:
-![Screenshot 2024-12-08 134224](https://github.com/user-attachments/assets/529fdc54-c451-4206-ac85-b4639167db96)
+![image](https://github.com/user-attachments/assets/f1d72d41-e3de-4deb-aeec-017bde3aec5e)
 
-![Screenshot 2024-12-08 134253](https://github.com/user-attachments/assets/8f45e672-b28d-4cc3-8a9e-e27adbf9f34e)
+![image](https://github.com/user-attachments/assets/481a3cdf-8da1-48d2-8d6c-6e3e69511458)
+
 
 
 ## Result:
