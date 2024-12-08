@@ -73,9 +73,9 @@ print(u)
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/5d79741f-f2d9-4897-9621-b37862b44be8)
-![image](https://github.com/user-attachments/assets/3ee03eef-6617-4d4b-87d5-13db5a8baa10)
+![Screenshot 2024-12-08 134224](https://github.com/user-attachments/assets/529fdc54-c451-4206-ac85-b4639167db96)
 
+![Screenshot 2024-12-08 134253](https://github.com/user-attachments/assets/8f45e672-b28d-4cc3-8a9e-e27adbf9f34e)
 
 
 ## Result:
